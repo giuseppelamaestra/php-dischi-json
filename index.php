@@ -16,6 +16,10 @@
 </head>
 <body>
     
+  <div id="app">
+
+
+  </div>
 
    <script src=" ./script/script.js"></script>
 </body>
